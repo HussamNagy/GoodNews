@@ -25,7 +25,6 @@ class Webservice {
                     completion(articlesList.articles)
                 }
                
-                
                 print(articlesList?.articles)
                 
             }
